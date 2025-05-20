@@ -1,0 +1,20 @@
+{
+    "id": "f57a10d5-5687-4b84-be2e-be00ebf339fb",
+    "pipeline_type": "WORKSPACE",
+    "development": true,
+    "continuous": false,
+    "channel": "CURRENT",
+    "photon": true,
+    "libraries": [
+        {
+            "notebook": {
+                "path": "/DLT Setup"
+            }
+        }
+    ],
+    "name": "dltsample",
+    "serverless": true,
+    "catalog": "fe_medium_posts",
+    "schema": "medium_posts",
+    "data_sampling": false
+}

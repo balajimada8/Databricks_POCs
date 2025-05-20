@@ -1,0 +1,20 @@
+{
+    "id": "c2c77422-b605-4baa-8ba5-80e7a34cc062",
+    "pipeline_type": "WORKSPACE",
+    "development": true,
+    "continuous": false,
+    "channel": "CURRENT",
+    "photon": true,
+    "libraries": [
+        {
+            "notebook": {
+                "path": "/DLT Bakery"
+            }
+        }
+    ],
+    "name": "DLT Bakery Sales Pipeline",
+    "serverless": true,
+    "catalog": "bakery_sales",
+    "schema": "bronze",
+    "data_sampling": false
+}
